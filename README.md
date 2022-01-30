@@ -1,14 +1,14 @@
 # inventory
 
-## User
+## Introduction
 
-**inventory** allows a user (belongs to a company) to return the available products where it have inventory quantity > 0 by entering the category of the products.
+**inventory** allows a user (belongs to a company) to return the available products that have inventory quantity > 0 by entering the category of the products.
 
 ## Used Technologies
 
 ### Backend :
 
-Maven 3.x , Spring boot 2.x, Spring Data, Spring REST
+Maven 3.6.3 , Spring boot 2.6.3, Spring Data, Spring REST
 
 ### Database :
 
